@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h> // Include stdlib.h for abs function
 
+
 int main()
 {
      int absolute,result;
